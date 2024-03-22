@@ -6,3 +6,14 @@ body {
 option {
   color: black;
 }
+
+/* Logo-removebg-preview 1 */
+#logo{
+  /* position: absolute; */
+  width: 318px;
+  height: 123px;
+  background: url(../img//Logo-removebg-preview\ .png);
+  background-size: 20vw;
+  background-position: center;
+  background-repeat: no-repeat;
+}

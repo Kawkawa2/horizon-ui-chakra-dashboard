@@ -276,7 +276,7 @@ export const lineChartOptionsTotalSpent = {
       color: "#4318FF",
     },
   },
-  colors: ["#4318FF", "#39B8FF"],
+  colors: ["#4318FF", "#31B3BB"],
   markers: {
     size: 0,
     colors: "white",
